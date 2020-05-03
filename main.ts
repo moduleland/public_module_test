@@ -1,2 +1,2 @@
 
-export const foo = () => 'Hello land!';
+export const foo = () => 'Hello public land!';
